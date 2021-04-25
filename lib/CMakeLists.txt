@@ -12,6 +12,7 @@ add_library(qgeoview SHARED
     include/QGeoView/QGVGlobal.h
     include/QGeoView/QGVProjection.h
     include/QGeoView/QGVProjectionEPSG3857.h
+    include/QGeoView/QGVProjectionEPSG4490.h
     include/QGeoView/QGVCamera.h
     include/QGeoView/QGVMap.h
     include/QGeoView/QGVMapQGItem.h
@@ -34,6 +35,7 @@ add_library(qgeoview SHARED
     src/QGVGlobal.cpp
     src/QGVProjection.cpp
     src/QGVProjectionEPSG3857.cpp
+    src/QGVProjectionEPSG4490.cpp
     src/QGVCamera.cpp
     src/QGVMap.cpp
     src/QGVMapQGItem.cpp

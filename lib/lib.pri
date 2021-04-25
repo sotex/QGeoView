@@ -20,6 +20,7 @@ SOURCES += \
     $$PWD/src/QGVMapRubberBand.cpp \
     $$PWD/src/QGVProjection.cpp \
     $$PWD/src/QGVProjectionEPSG3857.cpp \
+    $$PWD/src/QGVProjectionEPSG4490.cpp \
     $$PWD/src/QGVWidget.cpp \
     $$PWD/src/QGVWidgetCompass.cpp \
     $$PWD/src/QGVWidgetScale.cpp \
@@ -44,6 +45,7 @@ HEADERS += \
     $$PWD/include/QGeoView/QGVMapRubberBand.h \
     $$PWD/include/QGeoView/QGVProjection.h \
     $$PWD/include/QGeoView/QGVProjectionEPSG3857.h \
+    $$PWD/include/QGeoView/QGVProjectionEPSG4490.h \
     $$PWD/include/QGeoView/QGVWidget.h \
     $$PWD/include/QGeoView/QGVWidgetCompass.h \
     $$PWD/include/QGeoView/QGVWidgetScale.h \
